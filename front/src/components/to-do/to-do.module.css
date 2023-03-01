@@ -1,0 +1,36 @@
+.card {
+  border-radius: 15px;
+  justify-content: space-around;
+  margin: 8px;
+  background-color: bisque;
+  font-size: 24px;
+  text-align: center;
+}
+
+.table {
+  display: grid;
+}
+
+.one {
+  width: 150px;
+}
+.two {
+  width: 600px;
+}
+.three {
+  width: 150px;
+}
+.four {
+  width: 250px;
+}
+.five {
+  width: 200px;
+}
+.six {
+  width: 150px;
+}
+.button {
+  height: 32px;
+  margin: 4px;
+  font-size: 20px;
+}
